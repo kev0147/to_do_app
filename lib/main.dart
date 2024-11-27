@@ -1392,7 +1392,7 @@ class _ThinkPadState extends State<ThinkPad> {
           );
         },
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 5,
+          crossAxisCount: 3,
           crossAxisSpacing: 5.0,
           mainAxisSpacing: 5.0,
         ),
